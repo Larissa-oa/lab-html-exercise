@@ -3,6 +3,7 @@
 # Module Exercise: HTML & CSS
 
 ## Learning Goals
+## learning Goals
 
 In this exercise, the goal is to apply as many as possible of the concepts you've just learned:
 
